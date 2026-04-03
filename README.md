@@ -12,7 +12,7 @@ Fiz este mini site enquanto eu estava com insônia durante uma madrugada de uma 
 
 ## Site:
 
-# http://thiagop3010.links.io/
+# https://sm64isdabest.github.io/my-links/
 
 ## Tecnologias:
 
