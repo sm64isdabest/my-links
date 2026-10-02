@@ -13,5 +13,5 @@ if (user === "m") {
 
 // ENGLISH 
 if (language === "4") {
-    document.getElementById("splash_text").textContent = "Welcome! Here are my links!";
+    document.getElementById("splash_text").textContent = "Welcome! Here are my links:";
 }
